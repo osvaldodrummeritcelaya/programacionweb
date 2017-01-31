@@ -1,0 +1,13 @@
+
+/*Un comentario*/
+h1{
+	font-size: 40 px;
+	color: red;
+}
+#titulo{
+	background-color: black;
+	color: white;
+}
+.colorRojo{
+	color: red;
+}
